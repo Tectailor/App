@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Laptop\.android\build-cache\f273035ae8e1f876f5dfa38c45c529882d91d81c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d81bc9baac38e466934e8e027e755f5dfe914de">
+        <dex dex="C:\techtailor\AndroidStudioProjects\App\app\build\intermediates\pre-dexed\debug\classes_4cf0c44a874a83b6120926984f2674e8368175de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Laptop\.android\build-cache\cbdc69d4baacfd34e60947a730f2be38ac26ee2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d81bc9baac38e466934e8e027e755f5dfe914de">
+        <dex dex="C:\techtailor\AndroidStudioProjects\Camera Detector\app\build\intermediates\pre-dexed\debug\classes_bc8eab2ce7ad9bb874edadb94b53013c8846981f.jar" />
+    </item>
+
+</items>
